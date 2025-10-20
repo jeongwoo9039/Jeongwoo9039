@@ -5,8 +5,8 @@ Hi! My name is [JeongWoo AN](https://github.com/jeongwoo9039?tab=repositories), 
 -->
 ---
 # Currently, I am interested in following Topics:
-I am deeply interested in **Vision-AI** and **Deep Learning**, focusing not only on **efficient model design and optimization** but also on **developing practical applications** using existing AI technologies.  
-In particular, I enjoy exploring how these techniques can be applied to **healthcare domains**, such as **patient monitoring**, **fall detection**, and **medical image analysis**, to improve safety and efficiency in real-world environments.
+I am deeply interested in **Vision-AI**, **Deep Learning**, and **Explainable AI (XAI)**, focusing not only on **efficient model design and optimization** but also on **developing practical applications** using existing AI technologies.  
+In particular, I enjoy exploring how **vision-based and explainable techniques**, such as **CAM-based visualization**, can be applied to **healthcare domains** — including **patient monitoring**, **fall detection**, and **medical image analysis** — to improve both **system transparency** and **real-world reliability**.
 
 # STATUS
 |Name|JeongWoo AN|
