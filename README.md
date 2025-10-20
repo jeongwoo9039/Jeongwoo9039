@@ -30,12 +30,21 @@ In particular, I enjoy exploring how **vision-based and explainable techniques**
 - **Grand Prize** — 13th Pan-Government Public Data Utilization Startup Competition (Gangwon Regional Preliminary), 2025
 - **Inovation Award** — 2025 University Startup Idea Challenge, 2025
 - **Honorable Mention** — 2025 Northeast ICT Innovation Square Startup Idea Competition (hosted by the Ministry of Science and ICT), 2025  
-- **Top Team Selection** — 2025 Hana Social Venture University, 2025
 
 
 # School Prizes
 - **3nd Prize** — SW Capstone Design Competition, Hallym University SW-Centric Project Group (sponsored by the Ministry of Science and ICT), Jun. 5, 2025
 
 # Project
-- (2025.04 ~ ) Startup Club(비디오다본다) - Developing a **fall detection solution using edge devices** for real-time patient monitoring.
 - (2025.10 ~, Planned ) NRC - Planning to develop a **vision-based surface damage detection system** that focuses on identifying **paint-peeling and material defects** using deep learning and computer vision
+---
+- (2025.04 ~ ) **Startup Club (비디오다본다)**  
+  Developing a **fall detection solution using edge devices** for real-time patient monitoring.  
+  ▪️ **Role:** Vision AI Developer – responsible for training segmentation models, integrating segmentation and multi-label outputs through post-processing, and generating structured JSON data for API deployment.  
+  ▪️ **Tools:** YOLOv12-Segmentation, Multi-lable YOLOv12(custom), TensorRT
+---
+- (2025.03 ~ 2025.05.30) **SW Capstone Design Project (Graduation)**  
+  **AI-based Hair Loss Diagnosis Application** – YOLO-based model for hair loss stage and region detection with CAM-based heatmap visualization.  
+  ▪️ **Role:** Model Developer – YOLO fine-tuning and XAI visualization implementation  
+  ▪️ **Tools:** PyTorch, DenseNet121, YOLOv8-seg, Score-CAM
+
